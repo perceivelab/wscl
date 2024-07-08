@@ -137,7 +137,6 @@ checkpoints/
 *.ipynb
 *.xlsx
 *.pt
-*.png
 *.gif
 requirements.txt
 wandb/
